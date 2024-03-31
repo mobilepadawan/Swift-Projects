@@ -13,4 +13,5 @@ I think this website is an excellent guide: https://www.paintcodeapp.com/
 ### The eternal color palette doubt
 
 This amazing web can help you to avoid waste of time in the color palette: https://www.paintcodeapp.com/
+
 PS: At least you won't waste of time for the MVP and you'll got focus in the features of you App.
