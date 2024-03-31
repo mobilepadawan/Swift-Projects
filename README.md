@@ -8,7 +8,8 @@ I applied my personal touch digging a few in the official documentation for iOS.
 
 ### Tired of fight with the wide screen resolutions on iOS and iPadOS?
 
-I think this website is an excellent guide: https://www.paintcodeapp.com/
+I think this website is an excellent guide: https://www.paintcodeapp.com/.
+
 
 
 ### The eternal color palette doubt
