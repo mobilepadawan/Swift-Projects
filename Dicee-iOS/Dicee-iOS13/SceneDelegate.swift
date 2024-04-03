@@ -1,10 +1,9 @@
-//
-//  SceneDelegate.swift
-//  Test
-//
-//  Created by Angela Yu on 13/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
-//
+/*
+  ViewController.swift
+  Dicee
+  Created by Fer Moon on 03/30/2024.
+  Copyright © 2024 Vidamobile. All rights reserved.
+*/
 
 import UIKit
 

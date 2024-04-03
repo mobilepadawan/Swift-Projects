@@ -1,6 +1,6 @@
-# App Brewery (original author of the graphic resources of my dice project)
+![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-Check out the original information of The App Brewery.
+# Dicee
 
 ## Our Goal
 
