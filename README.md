@@ -33,4 +33,4 @@ Here is another amazing website to resolve the multiple resolutions for the icon
 
 The classic weather App built in all the programming languages, also here, in Swift UI.
 
-I'm implementing the (SF Icons)[https://developer.apple.com/sf-symbols/] the default icons used in major of iOS apps.
+I'm implementing the [https://developer.apple.com/sf-symbols/](SF Icons) the default icons used in major of iOS apps.
