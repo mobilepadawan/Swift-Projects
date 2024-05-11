@@ -5,7 +5,8 @@ This game is a fork of the original game created by Dr. Angela Yu, a Real Genius
 I applied my personal touch digging a few in the official documentation for iOS. The images used in this game was provided by Angela for her course published at Udemy.
 
 <br>
-!(https://raw.githubusercontent.com/mobilepadawan/Swift-Projects/main/images/ios.dice.gif)
+![https://raw.githubusercontent.com/mobilepadawan/Swift-Projects/main/images/ios.dice.gif]
+
 
 <br>
 
