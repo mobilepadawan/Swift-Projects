@@ -6,7 +6,7 @@ I applied my personal touch digging a few in the official documentation for iOS.
 
 <br>
 
-![Dice game for iOS]([https://raw.githubusercontent.com/mobilepadawan/Toastit-JS/main/docs/images/showing-toast-it-in-action-01.gif](https://raw.githubusercontent.com/mobilepadawan/Swift-Projects/main/images/ios.dice.gif))
+![Dice game for iOS](https://raw.githubusercontent.com/mobilepadawan/Swift-Projects/main/images/ios.dice.gif)
 
 
 <br>
@@ -29,7 +29,8 @@ This amazing web can help you to avoid waste of time in the color palette: https
 PS: At least you won't waste of time for the MVP and you'll got focus in the features of you App.
 
 <br>
-![Weather App for iOS](images/weather-app.captures.png)
+
+![Weather App for iOS](https://raw.githubusercontent.com/mobilepadawan/Swift-Projects/main/images/weather-app.captures.png)
 
 <br>
 
